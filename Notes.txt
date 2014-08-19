@@ -1,0 +1,3 @@
+1K for temp
+10k under arduino
+27k for nixies
