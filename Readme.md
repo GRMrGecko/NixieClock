@@ -13,4 +13,6 @@ To get nixie tubes, I recommend you go on ebay and search for "Nixie Tube IN 14"
 Power Supply can be ordered from http://www.allspectrum.com/store/nixie-power-supply-high-voltage-switch-mode-dc-dc-converter-kit-95-190vdc-25ma-180vdc-p-521.html
 The tube ICs can be purchased from http://www.allspectrum.com/store/74141-nixie-tube-driver-ic-russian-p-211.html, you will need 6.
 
-Extended documents available at http://l.bitcasa.com/I-Jobs88
+Look at notes.txt for resister values.
+
+Extended documents available at https://sf.gec.im/d/1c3d227302/
